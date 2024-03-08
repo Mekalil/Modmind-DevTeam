@@ -1,0 +1,15 @@
+type: massDriver
+range: 400
+rotateSpeed: 10
+reload: 20
+itemCapacity: 15
+shake: 1
+knockback: 2
+name: auto transporter
+size: 1
+category:distribution
+requirements:[
+  lead/10
+]
+loopSoundVolume: 0.1
+hasPower: false
